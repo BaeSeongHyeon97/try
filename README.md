@@ -3,3 +3,4 @@
 - typora / markdown
 - git
 - github
+- python
